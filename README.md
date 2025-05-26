@@ -44,9 +44,6 @@ sales-dashboard/
 3. Connect or update the dataset if needed
 4. Explore insights and customize as required
 
-## 📷 Dashboard Preview
-
-![Dashboard Screenshot](outputs/screenshots/dashboard_overview.png)
 
 ## 🙋‍♂️ Author
 
